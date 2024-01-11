@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: MLOps-AWS-1
+Version: 0.0.0
+Summary: A small python package for my first MLOps project
+Home-page: https://github.com/saisankar274/MLOps_AWS_1
+Author: saisankar274
+Author-email: saisankar274@gmail.com
+Project-URL: Bug Tracker, https://github.com/saisankar274/MLOps_AWS_1/issues
+License-File: LICENSE
+
+# MLOps_AWS_1
+This repo contains the implementation of end to end Deep Learning Image Classification project using MLOps tools along with few AWS services.

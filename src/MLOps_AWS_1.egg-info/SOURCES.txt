@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+src/MLOps_AWS_1.egg-info/PKG-INFO
+src/MLOps_AWS_1.egg-info/SOURCES.txt
+src/MLOps_AWS_1.egg-info/dependency_links.txt
+src/MLOps_AWS_1.egg-info/top_level.txt
+src/ccnClassifier/__init__.py
+src/ccnClassifier/components/__init__.py
+src/ccnClassifier/config/__init__.py
+src/ccnClassifier/config/configuration.py
+src/ccnClassifier/constants/__init__.py
+src/ccnClassifier/entity/__init__.py
+src/ccnClassifier/pipeline/__init__.py
+src/ccnClassifier/utils/__init__.py
